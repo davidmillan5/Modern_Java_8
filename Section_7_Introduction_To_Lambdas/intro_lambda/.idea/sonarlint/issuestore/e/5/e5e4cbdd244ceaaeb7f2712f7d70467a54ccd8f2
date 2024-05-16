@@ -1,0 +1,23 @@
+
+R
+java:S1611
+"5Remove the parentheses around the "student" parameter(¿§¡8ÿÜ”ù÷1
+]
+java:S1612
+"@Replace this lambda with method reference 'System.out::println'.(¿§¡8İ”ù÷1
+G	java:S106
+"+Replace this use of System.out by a logger.(¿§¡8’İ”ù÷1
+W
+java:S1611"5Remove the parentheses around the "student" parameter(ËÿŸ’şÿÿÿÿ8’İ”ù÷1
+L	java:S106"+Replace this use of System.out by a logger.(ËÿŸ’şÿÿÿÿ8”İ”ù÷1
+W
+java:S1611"5Remove the parentheses around the "student" parameter(ƒû«êıÿÿÿÿ8•İ”ù÷1
+L	java:S106"+Replace this use of System.out by a logger.(ƒû«êıÿÿÿÿ8–İ”ù÷1
+X
+java:S1854$"6Remove this useless assignment to local variable "c1".(î¸ÇÅüÿÿÿÿ8›İ”ù÷1
+Q
+java:S1611$"/Remove the parentheses around the "s" parameter(î¸ÇÅüÿÿÿÿ8œİ”ù÷1
+L	java:S106$"+Replace this use of System.out by a logger.(î¸ÇÅüÿÿÿÿ8œİ”ù÷1
+I
+java:S1481$"'Remove this unused "c1" local variable.(î¸ÇÅüÿÿÿÿ8İ”ù÷1
+X	java:S125%"<This block of commented-out lines of code should be removed.(òÛ¬8Ÿİ”ù÷1

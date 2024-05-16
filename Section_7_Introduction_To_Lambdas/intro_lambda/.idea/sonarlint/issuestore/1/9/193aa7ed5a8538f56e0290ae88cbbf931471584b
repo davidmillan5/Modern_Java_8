@@ -1,0 +1,11 @@
+
+“
+java:S1192"KDefine a constant instead of duplicating this literal "gymnastics" 3 times.(ˆŸ—­ıÿÿÿÿ8¢ïÄø÷1J$9f711c2c-f62a-4c82-bbb0-190f56088520
+Œ
+java:S1192"IDefine a constant instead of duplicating this literal "swimming" 6 times.(ê½ĞÜ8£ËÓø÷1J$b0a2428f-d045-4401-8ca8-cd8f35e4eec1
+
+java:S1192"GDefine a constant instead of duplicating this literal "female" 3 times.(ˆŸ—­ıÿÿÿÿ8¦ïÄø÷1J$b3fe0844-e49e-4864-957a-6da358f75c62
+¢
+java:S1488 "`Immediately return this expression instead of assigning it to the temporary variable "students".(¢‰ª68©ïÄø÷1J$50359083-8dd5-412c-9d05-36046ebc1151
+}
+java:S1118":Add a private constructor to hide the implicit public one.(±¦Æ‘8ÉïÄø÷1J$0c8ca762-32d1-49ea-adae-2498b905bf2b

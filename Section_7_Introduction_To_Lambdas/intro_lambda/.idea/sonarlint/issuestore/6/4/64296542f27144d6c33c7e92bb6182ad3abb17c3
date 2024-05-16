@@ -1,0 +1,10 @@
+
+k
+java:S1604	"(Make this anonymous inner class a lambda(Û•óù8‹¸²¡÷1J$bab57fe1-7af7-4fed-b936-f4561741c8ae
+r	java:S106"+Replace this use of System.out by a logger.(±ø»ãùÿÿÿÿ8¯¸²¡÷1J$904c0c6c-2c98-414f-9ae9-58d4e0d316ca
+Š
+java:S1612"BReplace this lambda with method reference 'Comparable::compareTo'.(ÄçŸ©øÿÿÿÿ8²¸²¡÷1J$ea07e35b-34da-4ef5-8bec-719c43c8fce0
+m	java:S106"+Replace this use of System.out by a logger.(›¤¾³8´¸²¡÷1J$aad2f61e-2b13-4611-af59-e592240ac582
+…
+java:S1612"BReplace this lambda with method reference 'Comparable::compareTo'.(øüĞÉ8µ¸²¡÷1J$05bd1e78-191c-48d0-bc67-537bd1f5aa18
+m	java:S106"+Replace this use of System.out by a logger.(•Ì8Í«³¡÷1J$a192be21-7ad7-4fc8-a525-e9a22bc276f7
